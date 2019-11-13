@@ -10,4 +10,4 @@
 
 In your browser, open the file:
 
-    /index.html
+    index.html
