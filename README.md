@@ -1,4 +1,4 @@
-# Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# Hello World PhoneGap Template 
 
 A PhoneGap Hello World template
 
@@ -38,7 +38,7 @@ It is strongly encouraged that you restrict access to external resources in your
 
 For more information on whitelist configuration, see the [Cordova Whitelist Guide][cordova-whitelist-guide] and the [Cordova Whitelist Plugin documentation][cordova-plugin-whitelist]
 
-## [www/index.html][index-html]
+## [index.html][index-html]
 
 #### Content Security Policy (CSP)
 
